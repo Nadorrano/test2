@@ -1,0 +1,12 @@
+# The name of your plugin as displayed in the Plugins Catalog web UI.
+displayName: Docker socket plugin
+
+# For now, `middleware` is the only type available.
+type: middleware
+
+# The import path of your plugin.
+import: gitea.n100.home.arpa/marco/docker-socket-plugin
+
+# A brief description of what your plugin is doing.
+summary: Docker socket plugin
+
