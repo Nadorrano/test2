@@ -5,7 +5,7 @@ displayName: Docker socket plugin
 type: middleware
 
 # The import path of your plugin.
-import: gitea.n100.home.arpa/marco/docker-socket-plugin
+import: github.com/nadorrano/test2
 
 # A brief description of what your plugin is doing.
 summary: Docker socket plugin
